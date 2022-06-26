@@ -24,9 +24,11 @@ Also See, [Why shouldn't we have our own filters](https://security.stackexchange
 
 ## Versions
 
-[1.0.0](https://github.com/KomalJayswal/Basic-Spring-Security/tree/version_1.0.0)
+[1.0.0](https://github.com/KomalJayswal/Spring-Security/tree/version_1.0.0)
 
-[2.0.0](https://github.com/KomalJayswal/Basic-Spring-Security/tree/version_2.0.0)
+[2.0.0](https://github.com/KomalJayswal/Spring-Security/tree/version_2.0.0)
+
+[3.0.0](https://github.com/KomalJayswal/Spring-Security/tree/version_3.0.0)
 
 ## Pre-Requistics
 
